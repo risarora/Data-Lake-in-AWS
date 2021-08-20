@@ -2,6 +2,9 @@
 In this section, you will gain hands-on experience on Glue and Athena
 
 ## Glue Data Catalog and Crawlers
+### Create glue role and assign permissions 
+![image](https://user-images.githubusercontent.com/4485129/130219774-025d781e-d150-42df-8e9d-dcbab3863ff3.png)
+![image](https://user-images.githubusercontent.com/4485129/130219886-75d97b4d-b8ec-4770-a805-a440116291c8.png)
 
 ## Athena in-place querying
 
