@@ -8,9 +8,14 @@ In this section, you will gain hands-on experience on Glue and Athena
 
 ### Create Glue Crawler
 ![image](https://user-images.githubusercontent.com/4485129/130302326-74893c91-0012-4406-994b-21fb57a861a8.png)
+### Create Indexes on table 
 
 
 ## Athena in-place querying
+Set up a query result location in S3
+When running Athena for the first time in the region, you need to specify a bucket location to store the query results
+
+You can use an existing bucket or create a new one (use the one from the same region to prevent unnecessary data transfer charges).
 
 ## Glue ETL using Apache Spark
 
