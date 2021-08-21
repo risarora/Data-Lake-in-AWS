@@ -6,6 +6,10 @@ In this section, you will gain hands-on experience on Glue and Athena
 ![image](https://user-images.githubusercontent.com/4485129/130219774-025d781e-d150-42df-8e9d-dcbab3863ff3.png)
 ![image](https://user-images.githubusercontent.com/4485129/130219886-75d97b4d-b8ec-4770-a805-a440116291c8.png)
 
+### Create Glue Crawler
+![image](https://user-images.githubusercontent.com/4485129/130302326-74893c91-0012-4406-994b-21fb57a861a8.png)
+
+
 ## Athena in-place querying
 
 ## Glue ETL using Apache Spark
