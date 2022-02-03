@@ -1,5 +1,5 @@
 # Data-Lake-in-AWS
-
+* **https://www.udemy.com/course/data-lake-in-aws/**
 ## Section 1: Introduction
 ### 1. Introduction to Data Lake
 ### 2. Downloadable Resources
