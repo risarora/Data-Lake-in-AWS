@@ -1,4 +1,5 @@
-# Step by step guide for setting up a data lake in AWS using Lake formation, Glue, DataBrew, Athena, Redshift, Macie etc.
+# Build a Secure Data Lake in AWS using AWS Lake Formation
+## Step by step guide for setting up a data lake in AWS using Lake formation, Glue, DataBrew, Athena, Redshift, Macie etc.
 ## What you'll learn
 * How to quickly setup a data lake in AWS using AWS Lake formation
 * You will learn to build real-world data pipeline using AWS glue studio and ingest data from sources such as RDS, Kinesis Firehose and DynamoDB
