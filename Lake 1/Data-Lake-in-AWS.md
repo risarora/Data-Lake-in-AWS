@@ -1,4 +1,5 @@
-# Data-Lake-in-AWS
+# Data Lake in AWS
+## Hands on serverless integration experience with Glue, Athena, S3, Kinesis Firehose, Lambda, Comprehend AI
 * **https://www.udemy.com/course/data-lake-in-aws/**
 ## Section 1: Introduction
 ### 1. Introduction to Data Lake
